@@ -1,0 +1,8 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(#1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
